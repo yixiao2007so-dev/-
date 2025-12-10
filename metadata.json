@@ -1,0 +1,5 @@
+{
+  "name": "趣味电路实验室",
+  "description": "专为12岁学生设计的交互式电路学习应用，包含串联和并联电路的动态SVG演示、有趣的物理公式讲解以及AI物理助教。",
+  "requestFramePermissions": []
+}
